@@ -11,3 +11,4 @@
 |Hadoop|3.2.2|
 |Python|3.9.16|
 |Spark|3.2.2|
+|Kafka|3.3.2|
